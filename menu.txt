@@ -15,3 +15,6 @@ Veggied Bowl   10 cal    5.89
 Burritos       500 cal   3.99
 Doner          400 cal   8.99
 Kebob          500 cal   9.99
+
+Steak          600 cal 13.99
+Sandwich       400 cal 4.99
