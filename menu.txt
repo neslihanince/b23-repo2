@@ -9,3 +9,9 @@ Ice Coffee 2.88 300 cal
 Lunch menu :
 butter chicken 1200 cal 10.99
 polo           2000 cal 15.99
+
+BURGER         10000 cal 5.99
+Veggied Bowl   10 cal    5.89
+Burritos       500 cal   3.99
+Doner          400 cal   8.99
+Kebob          500 cal   9.99
