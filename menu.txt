@@ -7,3 +7,5 @@ Wxpresso   3.25 250 cal
 Ice Coffee 2.88 300 cal
 
 Lunch menu :
+butter chicken 1200 cal 10.99
+polo           2000 cal 15.99
